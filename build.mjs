@@ -5,6 +5,7 @@ import asar from "@electron/asar";
 const exts = fs.readdirSync("./exts");
 const repo = [];
 for (const file of exts) {
+  if (!file.endsWith(".asar")) continue;
   const filePath = path.join("./exts", file);
 
   try {
