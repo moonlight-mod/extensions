@@ -3,8 +3,8 @@ name: Process new extensions
 on: [pull_request]
 
 jobs:
-  deploy:
-    name: Deploy extensions
+  process:
+    name: Process new extensions
     runs-on: ubuntu-latest
     steps:
       - name: Checkout extensions
