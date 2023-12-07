@@ -54,6 +54,7 @@ jobs:
         env:
           EXT_MANIFESTS_PATH: ${{ github.workspace }}/exts
           EXT_DIST_PATH: ${{ github.workspace }}/dist
+          EXT_RUNNER_PATH: ${{ github.workspace }}/runner
           EXT_WORK_PATH: ${{ github.workspace }}/work
         run: |
           cd $EXT_RUNNER_PATH
