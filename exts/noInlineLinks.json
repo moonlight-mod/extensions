@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/lexisother/moonlight-extensions.git",
+  "commit": "e7e9f74af68dae1cb04a6db5a339beedc513bd9b",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/noInlineLinks.asar"
+}
