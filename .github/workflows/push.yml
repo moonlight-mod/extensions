@@ -1,0 +1,69 @@
+name: Deploy extensions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy extensions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout extensions
+        uses: actions/checkout@v3
+      - name: Checkout dist
+        uses: actions/checkout@v3
+        with:
+          repository: moonlight-mod/extensions-dist
+          path: dist
+          ref: main
+          ssh-key: ${{ secrets.DIST_SSH_KEY }}
+          persist-credentials: true
+      - name: Checkout runner
+        uses: actions/checkout@v3
+        with:
+          repository: moonlight-mod/extensions-runner
+          path: runner
+          ref: main
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          run_install: false
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Build runner Docker image
+        run: |
+          cd ${{ github.workspace }}/runner
+          docker build -t moonlight-mod/extensions-runner:latest .
+          cd ${{ github.workspace }}
+
+      - name: Run runner
+        env:
+          EXT_MANIFESTS_PATH: ${{ github.workspace }}/exts
+          EXT_DIST_PATH: ${{ github.workspace }}/dist
+          EXT_RUNNER_PATH: ${{ github.workspace }}/runner
+          EXT_WORK_PATH: ${{ github.workspace }}/work
+        run: |
+          cd $EXT_RUNNER_PATH
+          pnpm run runner
+          cd ${{ github.workspace }}
+
+      - name: Upload changed asars
+        uses: actions/upload-artifact@v2
+        with:
+          name: asars
+          path: ${{ github.workspace }}/work/changed/*.asar
+
+      - name: Commit dist
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.DIST_TOKEN }}
+          directory: dist
+          repository: moonlight-mod/extensions-dist
+          ssh: true

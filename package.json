@@ -1,10 +1,5 @@
 {
   "name": "extensions",
-  "description": "The official extension repository for moonlight",
-  "devDependencies": {
-    "@electron/asar": "^3.2.8"
-  },
-  "scripts": {
-    "build": "node build.mjs"
-  }
+  "version": "1.0.0",
+  "private": true
 }
