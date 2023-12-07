@@ -61,6 +61,16 @@ jobs:
           path: ${{ github.workspace }}/work/changed/*.asar
 
       - name: Commit dist
+        run: |
+          cd ${{ github.workspace }}/dist
+          git config user.name "moonlight-bot"
+          git config user.email "153224135+moonlight-bot@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && exit 0
+          git commit -m "Update extensions"
+          cd ${{ github.workspace }}
+
+      - name: Push dist
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.DIST_TOKEN }}
