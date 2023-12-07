@@ -1,0 +1,64 @@
+name: Process new extensions
+
+on: [pull_request]
+
+jobs:
+  deploy:
+    name: Deploy extensions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout extensions
+        uses: actions/checkout@v3
+      - name: Checkout dist
+        uses: actions/checkout@v3
+        with:
+          repository: moonlight-mod/extensions-dist
+          path: dist
+          ref: main
+          ssh-key: ${{ secrets.DIST_SSH_KEY }}
+          persist-credentials: true
+      - name: Checkout runner
+        uses: actions/checkout@v3
+        with:
+          repository: moonlight-mod/extensions-runner
+          path: runner
+          ref: main
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          run_install: false
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: pnpm
+
+      - name: Setup Docker buildx
+        uses: docker/setup-buildx-action@v2
+      - name: Build runner Docker image
+        uses: docker/build-push-action@v2
+        with:
+          context: ${{ github.workspace }}/runner
+          file: ${{ github.workspace }}/runner/Dockerfile
+          push: false
+          tags: moonlight-mod/extensions-runner:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Run runner
+        env:
+          EXT_MANIFESTS_PATH: ${{ github.workspace }}/exts
+          EXT_DIST_PATH: ${{ github.workspace }}/dist
+          EXT_WORK_PATH: ${{ github.workspace }}/work
+        run: |
+          cd $EXT_RUNNER_PATH
+          pnpm run runner
+          cd $EXT_MANIFESTS_PATH
+
+      - name: Upload changed asars
+        uses: actions/upload-artifact@v2
+        with:
+          name: asars
+          path: ${{ github.workspace }}/work/changed/*.asar
