@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/imlvna/moonlight-extensions.git",
-  "commit": "f5e8a1c98894a5925d3b41fcc45760c6bdb23ed0",
+  "commit": "00204a94d615f30229c792cc3d519310f57127a5",
   "scripts": ["build", "repo"],
   "artifact": "repo/betterRoleDot.asar"
 }
