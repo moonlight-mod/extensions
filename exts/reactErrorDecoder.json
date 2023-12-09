@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/imlvna/moonlight-extensions.git",
+  "commit": "af2273b31798df795ef6560c3b906a029ffd4655",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/reactErrorDecoder.asar"
+}
