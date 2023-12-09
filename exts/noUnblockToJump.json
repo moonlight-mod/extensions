@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/imlvna/moonlight-extensions.git",
+  "commit": "b10ae587593943f4ded8dac363c2e8b57005b8fd",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/noUnblockToJump.asar"
+}
