@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/imlvna/moonlight-extensions.git",
-  "commit": "17ff504faf828f568cafc2853686b80aac0f5488",
+  "commit": "000a34f923fa1e68628d9223674dfdc2e9458fcf",
   "scripts": ["build", "repo"],
   "artifact": "repo/favouriteMedia.asar"
 }
