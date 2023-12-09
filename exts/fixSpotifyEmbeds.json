@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/imlvna/moonlight-extensions.git",
-  "commit": "f758fd6f5e94abe3e40d23ce08584346ec02d011",
+  "commit": "17ff504faf828f568cafc2853686b80aac0f5488",
   "scripts": ["build", "repo"],
   "artifact": "repo/fixSpotifyEmbeds.asar"
 }
