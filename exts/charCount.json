@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/imlvna/moonlight-extensions.git",
-  "commit": "491bfc53581b5dfd1fbdb8259ac615a7425ead02",
+  "commit": "a69ab4b9b09b968c228ed1ca5c44357663234170",
   "scripts": ["build", "repo"],
   "artifact": "repo/charCount.asar"
 }
