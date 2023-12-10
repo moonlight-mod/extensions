@@ -1,6 +1,0 @@
-{
-  "repository": "https://github.com/imlvna/moonlight-extensions.git",
-  "commit": "6a3a274273467becf80af6f52b11ac57e613bd1f",
-  "scripts": ["build", "repo"],
-  "artifact": "repo/fixImageQuality.asar"
-}
