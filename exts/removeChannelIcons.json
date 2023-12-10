@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/lexisother/moonlight-extensions.git",
-  "commit": "e7e9f74af68dae1cb04a6db5a339beedc513bd9b",
+  "commit": "4ab9ac72d05719d60d4440ef832d239f8ac7f888",
   "scripts": ["build", "repo"],
   "artifact": "repo/removeChannelIcons.asar"
 }
