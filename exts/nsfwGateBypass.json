@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/imlvna/moonlight-extensions.git",
+  "commit": "9cd6d3d6c5833800c55b5a6b79a2e5697124bd3b",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/nsfwGateBypass.asar"
+}
