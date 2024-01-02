@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/floppydiskette/moonlight-exts.git",
-  "commit": "5867bce357f21b216b1b468341926fed251dc865",
+  "commit": "46da445962d967455deb61f673294a0a287998bf",
   "scripts": ["build", "repo"],
   "artifact": "repo/moonlight-css.asar"
 }
