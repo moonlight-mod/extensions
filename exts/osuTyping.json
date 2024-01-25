@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/jane0009/selene.git",
+  "commit": "2ff67eb7a8bfa474a71e99888a83950ce4d460a0",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/osuTyping.asar"
+}
