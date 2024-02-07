@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/jane0009/selene.git",
+  "commit": "7369e4b540371466aa562fe77cd9eac78110b4eb",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/crashMe.asar"
+}
