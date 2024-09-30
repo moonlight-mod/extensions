@@ -61,6 +61,7 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
+            const fs = require('fs')
             const path = '${{ github.workspace }}/work/state.md'
             if (fs.existsSync(path)) {
               const content = fs.readFileSync(path, 'utf8')
