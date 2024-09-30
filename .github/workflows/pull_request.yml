@@ -27,7 +27,7 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: 8
+          version: 9
           run_install: false
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -52,7 +52,12 @@ jobs:
           cd ${{ github.workspace }}
 
       - name: Upload changed asars
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: asars
           path: ${{ github.workspace }}/work/changed/*.asar
+
+      - name: Write state
+        continue-on-error: true
+        run: cat ${{ github.workspace }}/work/state.md >> $GITHUB_STEP_SUMMARY
+        shell: bash
