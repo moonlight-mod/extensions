@@ -56,3 +56,8 @@ jobs:
         with:
           name: asars
           path: ${{ github.workspace }}/work/changed/*.asar
+
+      - name: Write state
+        continue-on-error: true
+        run: cat ${{ github.workspace }}/work/state.md >> $GITHUB_STEP_SUMMARY
+        shell: bash
