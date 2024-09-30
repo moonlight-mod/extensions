@@ -58,4 +58,5 @@ jobs:
           path: ${{ github.workspace }}/work/changed/*.asar
 
       - name: Write state
-        run: mv ${{ github.workspace }}/work/state.md $env:GITHUB_STEP_SUMMARY
+        run: cat ${{ github.workspace }}/work/state.md >> $GITHUB_STEP_SUMMARY
+        shell: bash
