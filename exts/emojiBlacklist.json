@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/lexisother/moonlight-extensions.git",
-  "commit": "e7e9f74af68dae1cb04a6db5a339beedc513bd9b",
+  "commit": "e746bf1450271b8755c6d64aa88c8a4ff8cd898e",
   "scripts": ["build", "repo"],
   "artifact": "repo/emojiBlacklist.asar"
 }
