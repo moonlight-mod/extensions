@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+  "commit": "ce30628b4ef8b220d4bac231a4388f0cce67215a",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/mediaTweaks.asar"
+}
