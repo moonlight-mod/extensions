@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/s5bug/aly-extensions.git",
-  "commit": "72426fcebbcb7f3ca1912e687fa735c2946d1217",
+  "commit": "a5b94770a2715a6d02abd2e3dee1b60b2fb48355",
   "scripts": ["build", "repo"],
   "artifact": "repo/katex.asar"
 }
