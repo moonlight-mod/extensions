@@ -2,5 +2,5 @@
   "repository": "https://github.com/jane0009/selene.git",
   "commit": "ae2eeb1fab4c2d8c6dd904fbab36188dbda48bf2",
   "scripts": ["build", "repo"],
-  "artifact": "repo/crashMe.asar"
+  "artifact": "repo/roleColoredMessages.asar"
 }
