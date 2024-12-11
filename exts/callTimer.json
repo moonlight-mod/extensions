@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-  "commit": "7aace3c4de8fad9e37e7c7e4c68e92c416764db1",
+  "commit": "8f0eadb98332eff7a479de971244ffc2cb7ce805",
   "scripts": ["build", "repo"],
   "artifact": "repo/callTimer.asar"
 }
