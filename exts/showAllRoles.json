@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/redstonekasi/moonlight-extensions.git",
+  "commit": "cb1e92932755f06045a9381cd97eac550962f627",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/showAllRoles.asar"
+}
