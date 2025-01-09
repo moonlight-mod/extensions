@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/redstonekasi/moonlight-extensions.git",
+  "commit": "0e5128c4f3914c3bd4810934c15debf6a9298a96",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/customIdleTimeout.asar"
+}
