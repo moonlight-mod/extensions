@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-  "commit": "f8cdfd72a09201f3ee4a422c60013a3937576fc2",
+  "commit": "21750aebfa451a99bb5d8aa37acb02a1aecb057b",
   "scripts": ["build", "repo"],
   "artifact": "repo/chatTweaks.asar"
 }
