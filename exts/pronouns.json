@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/maddymeows/moonlight-exts.git",
-  "commit": "8d304d2e2b6ca132e1e319e9ed94f110120942d4",
+  "commit": "4e8ac1bd1183c2472f156f7b228748f357914e42",
   "scripts": ["build", "repo"],
   "artifact": "repo/pronouns.asar"
 }
