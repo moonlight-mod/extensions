@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/karashiiro/moonlight-extensions.git",
-  "commit": "6711596f86a97f0432169c7e5c39ca72f254b22a",
+  "commit": "26e1cdd231b4c4d145bd6df0317e55b0f15aad89",
   "scripts": ["build", "repo"],
   "artifact": "repo/remind-me.asar"
 }
