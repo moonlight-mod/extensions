@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/redstonekasi/moonlight-extensions.git",
-  "commit": "5aa2d7b80fc80c2b6e39e3b61a452c809ebccee9",
+  "commit": "f84852014c3b263a916f44cbd6b81902dbe3ff39",
   "scripts": ["build", "repo"],
   "artifact": "repo/alwaysFocus.asar"
 }
