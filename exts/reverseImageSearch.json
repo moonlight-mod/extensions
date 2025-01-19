@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/redstonekasi/moonlight-extensions.git",
-  "commit": "81d1dba071ff17714092cb7f550527d05292ee47",
+  "commit": "f84852014c3b263a916f44cbd6b81902dbe3ff39",
   "scripts": ["build", "repo"],
   "artifact": "repo/reverseImageSearch.asar"
 }
