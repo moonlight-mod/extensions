@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/maggster165/moonlight-extensions",
+  "commit": "320e7cf8f4fb8bfee8d1b0992ee4e7d4265fdf5f",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/displaySummaries.asar"
+}
