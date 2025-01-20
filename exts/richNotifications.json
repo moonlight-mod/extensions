@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/uwx/moonlight-extensions.git",
-  "commit": "8b91672c40cbf83a7a69eee6850cf2516cf3b36d",
+  "commit": "915676600591ebc5a2fc065cf3e92570416e24b7",
   "scripts": ["build", "repo"],
   "artifact": "repo/richNotifications.asar"
 }
