@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/redstonekasi/moonlight-extensions.git",
-  "commit": "f84852014c3b263a916f44cbd6b81902dbe3ff39",
+  "commit": "47333c8c1f62ee1962c081a7ab207cdb3c8f137d",
   "scripts": ["build", "repo"],
   "artifact": "repo/viewJson.asar"
 }
