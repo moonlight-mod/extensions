@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/uwx/moonlight-extensions.git",
+  "commit": "620cac838f611b34f5990a1c5c8a4c764f0831d5",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/toggleReadNotificationsAloud.asar"
+}
