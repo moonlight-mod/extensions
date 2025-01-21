@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/uwx/moonlight-extensions.git",
+  "commit": "f1d633ddba10eddb9690469d0358f3f74227ccb1",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/pauseTts.asar"
+}
