@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/uwx/moonlight-extensions.git",
-  "commit": "0f537428dde8732bb9f2a902b71a41cb63f86710",
+  "commit": "c82bc4552e6855ff8b87a3a295be151509589214",
   "scripts": ["build", "repo"],
   "artifact": "repo/sendTimestamps.asar"
 }
