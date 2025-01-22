@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-  "commit": "89c461292837db57260c547c122de4b96c7e21db",
+  "commit": "642a1a47fc230d5ea1fb0ae33c14e1ae3814b856",
   "scripts": ["build", "repo"],
   "artifact": "repo/oneko.asar"
 }
