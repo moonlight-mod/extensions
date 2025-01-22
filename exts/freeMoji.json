@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/uwx/moonlight-extensions.git",
-  "commit": "2d117874c1b797c3f4313f827f31a2e3eee1dd7a",
+  "commit": "268878220dac9ae8e7a9bb4cb7f632d4090f2e4b",
   "scripts": ["build", "repo"],
   "artifact": "repo/freeMoji.asar"
 }
