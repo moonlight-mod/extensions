@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/TheEssem/my-moonlight-extensions.git",
-  "commit": "6e0806b59b77bdb1ed8986e27d48e6cc91b9b8a3",
+  "commit": "80162a4d0ceead9512be0073862a7e059aa6d587",
   "scripts": ["build", "repo"],
   "artifact": "repo/modPlayer.asar"
 }
