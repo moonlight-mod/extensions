@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/uwx/moonlight-extensions.git",
-  "commit": "076f894118e35a06957e75703ae14daa7bdcb879",
+  "commit": "e78cb1ae8077f2c6ceb16a6d48c63ef81c438422",
   "scripts": ["build", "repo"],
   "artifact": "repo/ruffle.asar"
 }
