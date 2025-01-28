@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/maddymeows/moonlight-exts.git",
+  "commit": "5b2bdce2f38be6ead499f564bc60e4ba5424758f",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/keybindTweaks.asar"
+}
