@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/gBasil/moonlight-exts.git",
-  "commit": "5a6cd005e73b410dbb16ef27240b77748cef03a7",
+  "commit": "7568e31d10b886c154ef6a624d275c076fd2758c",
   "scripts": ["build", "repo"],
   "artifact": "repo/replyChain.asar"
 }
