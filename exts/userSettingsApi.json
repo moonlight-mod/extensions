@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/uwx/moonlight-extensions",
-  "commit": "b23e1c90d98f4839693940fc41d866865870e850",
+  "commit": "f99a59c1a2e3aaa7e1d05c5304674c6eb3bf0ca7",
   "scripts": ["build", "repo"],
   "artifact": "repo/userSettingsApi.asar"
 }
