@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/maddymeows/moonlight-exts.git",
+  "commit": "54efa18fb482774fe1057c98b84d1c5ffabccfc9",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/showVoiceMemberCount.asar"
+}
