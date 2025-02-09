@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/ThaTiemsz/moonlight-extensions.git",
-  "commit": "1a7f295e9a889a7ec5ccf3fb23c49f357f9e9a99",
+  "commit": "f4bbd3a0609e04337447126544e5916b8b905d01",
   "scripts": ["build", "repo"],
   "artifact": "repo/clearUrls.asar"
 }
