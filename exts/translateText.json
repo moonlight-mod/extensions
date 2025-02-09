@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/ThaTiemsz/moonlight-extensions.git",
+  "commit": "f4bbd3a0609e04337447126544e5916b8b905d01",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/translateText.asar"
+}
