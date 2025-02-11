@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/jane0009/selene.git",
-  "commit": "ae2eeb1fab4c2d8c6dd904fbab36188dbda48bf2",
+  "commit": "814a22f469473159e46d56d21afd1d954fcda050",
   "scripts": ["build", "repo"],
   "artifact": "repo/roleColoredMessages.asar"
 }
