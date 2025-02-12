@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/floppydiskette/moonlight-exts.git",
-  "commit": "6633317881a0d21352c91876a4153708af7351a9",
+  "commit": "75abc45ccc50e13a03d303c66a8c88ee212373eb",
   "scripts": ["build", "repo"],
   "artifact": "repo/levantine.asar"
 }
