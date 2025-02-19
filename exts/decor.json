@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-  "commit": "fa866c4d326ccb7563c07651a4bc332b7c2cefab",
+  "commit": "952186c5dacf66de44ffce355a536dfa98eb7d5c",
   "scripts": ["build", "repo"],
   "artifact": "repo/decor.asar"
 }
