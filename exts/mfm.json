@@ -1,6 +1,0 @@
-{
-  "repository": "https://github.com/uwx/moonlight-extensions.git",
-  "commit": "bf2cc0149f64066fdf1af8b1c831e32f2bc205cf",
-  "scripts": ["build", "repo"],
-  "artifact": "repo/mfm.asar"
-}
