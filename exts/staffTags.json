@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/TheKodeToad/moonlight-extensions.git",
-  "commit": "d25a4096f6f0454659fcaac3f5ddf23b091a4355",
+  "commit": "a0f52bf90f8a7d7225e4754dfd61561636e83943",
   "scripts": ["build", "repo"],
   "artifact": "repo/staffTags.asar"
 }
