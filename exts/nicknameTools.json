@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/jplexer/nicknameTools.git",
-  "commit": "7b37c695fcd5e27c915e5c77abf35e0dc7bf25e9",
+  "commit": "27912f7221a28434e805bd5efe1a9b7df0117924",
   "scripts": ["build", "repo"],
   "artifact": "repo/nicknameTools.asar"
 }
