@@ -1,6 +1,6 @@
 {
   "repository": "https://git.slonk.ing/slonk/moonlight-extensions",
-  "commit": "5122527ac665cd01bfe6da7c9a8dee4944c4f227",
+  "commit": "80f35ad6389534ce9d2139cc7cdf23c3de5741bf",
   "scripts": ["build", "repo"],
   "artifact": "repo/notificationContent.asar"
 }
