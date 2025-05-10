@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-  "commit": "28d0544f590c17c26cbe071f9d817178d3410817",
+  "commit": "308174e1cf2f2696f5641af469870cfd62561224",
   "scripts": ["build", "repo"],
   "artifact": "repo/inAppNotifications.asar"
 }
