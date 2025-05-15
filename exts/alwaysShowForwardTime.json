@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-  "commit": "17aeb0873b2a2b738a0eba7c0f7cd889bc5b0b33",
+  "commit": "6423c4830a47c36177aa72e74cd88ffb88c98c2b",
   "scripts": ["build", "repo"],
   "artifact": "repo/alwaysShowForwardTime.asar"
 }
