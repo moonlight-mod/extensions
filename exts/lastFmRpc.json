@@ -1,5 +1,5 @@
 {
-  "repository": "https://github.com/yusdacra/moonlight-exts.git",
+  "repository": "https://git.gaze.systems/90008/moonlight-exts.git",
   "commit": "04c11429b2f744c2e2972ddd7918a5ae4de6040d",
   "scripts": ["build", "repo"],
   "artifact": "repo/lastFmRpc.asar"
