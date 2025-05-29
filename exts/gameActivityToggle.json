@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/uwx/moonlight-extensions",
-  "commit": "f99a59c1a2e3aaa7e1d05c5304674c6eb3bf0ca7",
+  "commit": "48a2a9fefd3ee867ea18d50dfab06f12080d13a0",
   "scripts": ["build", "repo"],
   "artifact": "repo/gameActivityToggle.asar"
 }
