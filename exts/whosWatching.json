@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Enovale/moonlight-extensions.git",
-  "commit": "524eebd1ed34b6834a1c8fcc621eda06ef4ae418",
+  "commit": "2da45fe9e4b73bf1804c9cc32f5ed37020624047",
   "scripts": ["build", "repo"],
   "artifact": "repo/whosWatching.asar"
 }
