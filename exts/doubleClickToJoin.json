@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/lare354/moonlight-plugins.git",
-  "commit": "7053ed6df81d60f68413d92df93a5921992c6da3",
+  "commit": "d4cabfb2a9623ac4a0103929f3857fe3587bb1a7",
   "scripts": ["build", "repo"],
   "artifact": "repo/doubleClickToJoin.asar"
 }
