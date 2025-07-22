@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Enovale/moonlight-extensions.git",
+  "commit": "781cf086268926f660a6457ea1df2983151ab57f",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/noNitroUpsell.asar"
+}
