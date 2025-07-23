@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+  "commit": "01d952255dc844509baff7018aee2efa650415cc",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/voiceTextLink.asar"
+}
