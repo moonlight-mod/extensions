@@ -1,0 +1,7 @@
+{
+	"repository": "https://github.com/lare354/moonlight-plugins.git",
+	"commit": "13ac87f63f8698e7fe6e0730dd4fc0f99c32b1ec",
+	"scripts": ["build", "repo"],
+	"artifact": "repo/questCompleter.asar"
+}
+
