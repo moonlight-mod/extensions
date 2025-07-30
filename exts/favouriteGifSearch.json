@@ -1,0 +1,6 @@
+{
+	"repository": "https://github.com/MeguminSama/moonlight-extensions.git",
+	"commit": "3cadb95e6cd613bf30a5bd609577f3fbf8c4cd94",
+	"scripts": ["build", "repo"],
+	"artifact": "repo/favouriteGifSearch.asar"
+}

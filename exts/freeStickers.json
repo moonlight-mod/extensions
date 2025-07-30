@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Enovale/moonlight-extensions.git",
+  "commit": "a759635058328cfb9e27048cc4b5fac5019baf3d",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/freeStickers.asar"
+}
