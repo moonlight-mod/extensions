@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Enovale/moonlight-extensions.git",
-  "commit": "d5c8eed6d22f73e45161580102e37331787d4f5d",
+  "commit": "b13ba02eee552cb87fd391e665c20295899b124c",
   "scripts": ["build", "repo"],
   "artifact": "repo/removeTopBar.asar"
 }
