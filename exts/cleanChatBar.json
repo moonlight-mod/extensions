@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Enovale/moonlight-extensions.git",
+  "commit": "2e41f1dc8b9215c6d8c958aeb26ba19e1ed73173",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/cleanChatBar.asar"
+}
