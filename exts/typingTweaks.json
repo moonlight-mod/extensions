@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Enovale/moonlight-extensions.git",
-  "commit": "d5c8eed6d22f73e45161580102e37331787d4f5d",
+  "commit": "7d0f9acfacc9b0c807cf5c20e5788f33c65d3498",
   "scripts": ["build", "repo"],
   "artifact": "repo/typingTweaks.asar"
 }
