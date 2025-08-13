@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/lare354/moonlight-plugins.git",
+  "commit": "f0a2e3424627cc2bfd4e25c28bf57606631c1c45",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/meow.asar"
+}
