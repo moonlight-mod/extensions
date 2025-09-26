@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/lare354/moonlight-plugins.git",
-  "commit": "d88c572d6becdaf826f4fd470a029515d490ce4e",
+  "commit": "fea40b39ae5507de0eb5f5857c9be11e91aa2114",
   "scripts": ["build", "repo"],
   "artifact": "repo/quickDelete.asar"
 }
