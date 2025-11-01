@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/MeguminSama/moonlight-extensions.git",
-  "commit": "653e8cd984763f8c08ec22c4b545bdf44fe0b723",
+  "commit": "9ef7411ab9ed35121170c95c1bd43a68c43add40",
   "scripts": ["build", "repo"],
   "artifact": "repo/onePingPerDM.asar"
 }
