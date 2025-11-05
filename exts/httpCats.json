@@ -1,6 +1,6 @@
 {
-  "repository": "https://github.com/danielah05/moonlight-extensions.git",
-  "commit": "8e9b90a670ab06d34a177c08bd0ecae9d905e24f",
+  "repository": "https://github.com/kittibyte/moonlight-extensions.git",
+  "commit": "708c923fc3f012c4b6006cf8018b55d11290b73f",
   "scripts": ["build", "repo"],
   "artifact": "repo/httpCats.asar"
 }
