@@ -1,6 +1,6 @@
 {
-  "repository": "https://github.com/danielah05/moonlight-extensions.git",
-  "commit": "ade2f49e3e69039eef450dd2d585b4e429097d21",
+  "repository": "https://github.com/kittibytess/moonlight-extensions.git",
+  "commit": "f20631cd62d35bde00ee2d64de3ffb645b33b679",
   "scripts": ["build", "repo"],
   "artifact": "repo/notificationVolume.asar"
 }
