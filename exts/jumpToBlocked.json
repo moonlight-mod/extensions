@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-  "commit": "2e88d06618f96df4e7800fe91cf0bac7f52a237b",
+  "commit": "8bf174b3a77957844baf03d3ebca4d096d2870af",
   "scripts": ["build", "repo"],
   "artifact": "repo/jumpToBlocked.asar"
 }
