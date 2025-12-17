@@ -1,6 +1,6 @@
 {
-  "repository": "https://git.gaze.systems/90008/moonlight-exts.git",
-  "commit": "69bc61c7213874535abee2fa84fe7263b64904d3",
+  "repository": "https://github.com/90-008/moonlight-exts.git",
+  "commit": "3ce68605e7aef87abfbb5727849e53ba876bba3a",
   "scripts": ["build", "repo"],
   "artifact": "repo/muteGuildOnJoin.asar"
 }

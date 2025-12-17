@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/maddymeows/moonlight-exts.git",
-  "commit": "a81716c29e6f26b2065670bc0c75d500f38ae129",
+  "commit": "3b7fe873d903f90fdaae356658356c195b0da81c",
   "scripts": ["build", "repo"],
   "artifact": "repo/selectivelyReduceMotion.asar"
 }
