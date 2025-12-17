@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/yofukashino/moonlight-extensions.git",
-  "commit": "2deb6135cf073d638c55255e9b2cc723ccafc7d2",
+  "commit": "5a94ff2aaac3fa2ec287ebe0e853e29a597d8a28",
   "scripts": ["build", "repo"],
   "artifact": "repo/utc.asar"
 }
