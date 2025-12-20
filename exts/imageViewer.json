@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-  "commit": "ee132707783c2d212e493023ce6804da3a137e67",
+  "commit": "27f7c27ee5e310557ebcc8ae0af665d9f4191d3a",
   "scripts": ["build", "repo"],
   "artifact": "repo/imageViewer.asar"
 }
