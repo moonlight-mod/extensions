@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/jane0009/selene.git",
-  "commit": "ae2eeb1fab4c2d8c6dd904fbab36188dbda48bf2",
+  "commit": "9be9d49a18d6b366ad07be17da03d388011296ef",
   "scripts": ["build", "repo"],
   "artifact": "repo/nameColor.asar"
 }
