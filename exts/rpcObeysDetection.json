@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+  "commit": "dddcc1d8ede9cab6f736ffe5569a2a3fd588fa0d",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/rpcObeysDetection.asar"
+}

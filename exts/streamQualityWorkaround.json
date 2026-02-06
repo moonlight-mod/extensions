@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Enovale/moonlight-extensions.git",
+  "commit": "a8dd9053ac02481bc64fb5576f182e52979ad193",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/streamQualityWorkaround.asar"
+}

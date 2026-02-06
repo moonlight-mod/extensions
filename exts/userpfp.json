@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/Enovale/moonlight-extensions.git",
+  "commit": "19171e532290957c0ebf1bfadbf1b6da183ba43d",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/userpfp.asar"
+}

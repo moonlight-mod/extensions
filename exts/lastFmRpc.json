@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/90-008/moonlight-exts.git",
+  "commit": "3ce68605e7aef87abfbb5727849e53ba876bba3a",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/lastFmRpc.asar"
+}
