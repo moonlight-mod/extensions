@@ -1,6 +1,6 @@
 {
-  "repository": "https://github.com/official-notfishvr/moonlight-noPendingCount.git",
-  "commit": "f9d440b4374a01dc5fc9b6982da3dd243522fb55",
+  "repository": "https://github.com/official-notfishvr/moonlight-extensions.git",
+  "commit": "31938b7fc6f5d452cf3edbdd5038ad7e682fa26b",
   "scripts": ["build", "repo"],
   "artifact": "repo/noPendingCount.asar"
 }
