@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/official-notfishvr/moonlight-extensions.git",
+  "commit": "31938b7fc6f5d452cf3edbdd5038ad7e682fa26b",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/messageLogger.asar"
+}
