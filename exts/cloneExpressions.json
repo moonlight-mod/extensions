@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/maddymeows/moonlight-exts.git",
-  "commit": "bfd6e53afee45ba87438273f88737e389e6f6eb9",
+  "commit": "b1152f09c8d0213e41236098e835ef0e8938fd8b",
   "scripts": ["build", "repo"],
   "artifact": "repo/cloneExpressions.asar"
 }
