@@ -1,6 +1,0 @@
-{
-  "repository": "https://github.com/Ruthenic/moonlight-extensions.git",
-  "commit": "1aa39215e4dd53b571e22260c4e0570563e06856",
-  "scripts": ["build", "repo"],
-  "artifact": "repo/customReplyMention.asar"
-}
