@@ -1,6 +1,0 @@
-{
-  "repository": "https://github.com/Ruthenic/moonlight-extensions.git",
-  "commit": "dd4e7a8cfcd95eaa4098fab8b41c98219d88fff0",
-  "scripts": ["build", "repo"],
-  "artifact": "repo/freeSpotify.asar"
-}
