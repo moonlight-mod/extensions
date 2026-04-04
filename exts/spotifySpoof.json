@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/redstonekasi/moonlight-extensions.git",
-  "commit": "f84852014c3b263a916f44cbd6b81902dbe3ff39",
+  "commit": "b8f2c8e4146bb28b4594ea855e0dfc7d7f98da96",
   "scripts": ["build", "repo"],
   "artifact": "repo/spotifySpoof.asar"
 }
