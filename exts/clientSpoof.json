@@ -1,0 +1,6 @@
+{
+    "repository": "https://github.com/krvntzkl/discord-client-spoof.git",
+    "commit": "6692be5ef574e04716355e9120141755545015b1",
+    "scripts": ["build", "repo"],
+    "artifact": "repo/clientSpoof.asar"
+}
