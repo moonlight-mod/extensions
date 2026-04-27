@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-  "commit": "7ddee54aca1d71a24278a5dd71ad1f3dbb308739",
+  "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
   "scripts": ["build", "repo"],
   "artifact": "repo/betterEmbedsYT.asar"
 }
