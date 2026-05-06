@@ -1,6 +1,6 @@
 {
-  "repository": "https://github.com/yofukashino/moonlight-extensions.git",
-  "commit": "583bd1a7b951e614fb6eae73102a7209beb7eafb",
+  "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+  "commit": "35ff9d0eebac7e8498f54782e5dfb1f6177e0482",
   "scripts": ["build", "repo"],
   "artifact": "repo/volumeManipulator.asar"
 }
