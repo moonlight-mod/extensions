@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/s5bug/aly-extensions.git",
+  "commit": "495a658ca72e5ea00714ffd50dc52aa516bf6a8e",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/hanfix.asar"
+}
