@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/s5bug/aly-extensions.git",
-  "commit": "e676ec1220eee3e6adcc413532a9aeeb39567d23",
+  "commit": "f43ea0594def54c8879b17b21b996fd969f68f69",
   "scripts": ["build", "repo"],
   "artifact": "repo/ruby.asar"
 }
