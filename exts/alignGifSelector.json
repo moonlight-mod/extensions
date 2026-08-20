@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/flammablebunny/bunny-moonlight-plugins.git",
+  "commit": "9404302f0bc27435556a2340bc2a76993097c466",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/alignGifSelector.asar"
+}
