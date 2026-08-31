@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/yuifm/moonlight-extensions.git",
+  "commit": "9427a0cfc2eb63af4fc2a4407cc062b48a5fe2ff",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/silentMode.asar"
+}
