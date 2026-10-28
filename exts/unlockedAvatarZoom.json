@@ -1,0 +1,6 @@
+{
+  "repository": "https://codeberg.org/paige/moonlight-extensions.git",
+  "commit": "e6e942417483a6681883fbe1d2a19a4b867d58cc",
+  "scripts": ["build", "repo"],
+  "artifact": "repo/unlockedAvatarZoom.asar"
+}
